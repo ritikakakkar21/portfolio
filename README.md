@@ -13,8 +13,8 @@ Static, dependency-free portfolio site: a home page plus eight deep-dive case st
 - `case-06-brandshark-multi-client-agency.html` - case 06: Multi-Client Agency: 500%+ Organic Growth with CRO
 - `case-07-sunanda-global-waterproofing.html` - case 07: Waterproofing: Page 1 in One Month
 - `case-08-sportstech-eu-market-migration.html` - case 08: Six EU Markets, One Migration Window
-- `assets/style.css` - design system (light + dark mode, responsive)
-- `assets/main.js` - mobile nav, scroll reveal, footer year
+- `style.css` - design system (light + dark mode, responsive)
+- `main.js` - mobile nav, scroll reveal, footer year
 
 ## Run locally
 
